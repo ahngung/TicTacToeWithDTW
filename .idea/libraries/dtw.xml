@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dtw">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MultimodalTicTacToe/javaml-0.1.7/javaml-0.1.7.jar!/net/sf/javaml/distance/fastdtw/dtw" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+logging:
+  level: INFO
+  loggers:
+    MBO Gruppe 4: DEBUG
